@@ -234,10 +234,6 @@ export const BloodGroupDetector = () => {
             </div>
           )}
         </Card>
-
-        <p className="text-center text-sm text-muted-foreground animate-fade-in">
-          Powered by advanced biometric analysis technology
-        </p>
       </div>
     </div>
   );

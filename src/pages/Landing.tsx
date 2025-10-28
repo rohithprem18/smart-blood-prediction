@@ -206,7 +206,6 @@ const Landing = () => {
       {/* Footer */}
       <footer className="py-8 border-t bg-secondary/20">
         <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
-          <p>Powered by advanced biometric analysis technology</p>
         </div>
       </footer>
     </div>
